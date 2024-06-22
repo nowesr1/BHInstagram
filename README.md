@@ -1,6 +1,6 @@
 # BHInstagram
 An awesome tweak for Instagram!
- التغييرات:
+ التغييرات :
  اصدار V1.0
 اضافة توافق تطبيق Instagram V336.1.0
 
