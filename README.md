@@ -1,32 +1,33 @@
-<p><strong># BHInstagram</strong><br><strong>An awesome tweak for Instagram!</strong><br><strong>التغييرات :</strong></p>
-<p><br><strong>اصدار V1.0</strong></p>
-<p><br><strong>اضافة توافق تطبيق Instagram V336.1.0</strong></p>
+<p style="text-align:right;"><strong># BHInstagram</strong><br><strong>An awesome tweak for Instagram!</strong><br><strong>التغييرات :</strong></p>
+<p style="text-align:right;"><br><strong>اصدار V1.0</strong></p>
+<p style="font:20.0px 'Helvetica Neue';margin:0.0px;min-height:25.0px;"><br>&nbsp;</p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>اضافة توافق تطبيق Instagram V336.1.0</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;min-height:15.0px;text-align:right;" dir="rtl">&nbsp;</p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اعادة كتابة اكواد التحميل للتنزيل بجودة فل HD حقيقية!</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح تنزيل الفيديوهات/الصور من الصفحة الرئيسية</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح تنزيل الفيديوهات/الصور من القصص</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح حفظ صورة الملف الشخصي</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح تنزيل مقاطع الريلز، مع اضافة حفظ صور الريلز</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح تنزيل الفيديوهات/الصور من الخاص</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;min-height:15.0px;text-align:right;" dir="rtl">&nbsp;</p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اضافة تنزيل الفيديوهات/الصور بالخاص (ذات العرض لمرة واحدة فقط)</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-جميع الفيديوهات والصور يتم تنزيلها بأعلى جودة ممكنة</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اضافة خيار حفظ الصور والفيديو مباشرة الى البوم الصور، او اظهار شريط المشاركة</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-تحسين ميزة (وضع اشارة مشاهدة) بالخاص للدردشات والصور والفيديو</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح ميزة (وضع اشارة مشاهدة) للقصص</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح ميزة ابقاء الدردشات المحذوفة مع اضافة اشارة للرسائل المحذوفة لتمييزها</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح نسخ النبذة التعريفية bio</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-تحسين ميزة نسخ الوصف</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اصلاح اعادة مشاهدة القصص بالعام والخاص بشكل لامحدود (كانت للصور فقط والآن للصور والفيديو)</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;min-height:15.0px;text-align:right;" dir="rtl">&nbsp;</p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اضافة تأكيد عند الاتصال (صوت او فيديو)</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اضافة تمكين اختيار فيديو في ملصقات القصص</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اضافة ميزة تعطيل اشعار (جار الكتابة…)</strong><span class="Apple-converted-space"><strong>&nbsp;</strong></span></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اضافة امكانية تغيير لغة اعدادات الأداة بين العربية والانجليزية (من داخل اعدادات الأداة)</strong></span></p>
+<p style="font:13.0px 'Helvetica Neue';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><strong>-اضافة زر اعدادات الاداة اعلى الصفحة الرئيسية</strong></span></p>
+<p style="font:13.0px 'Geeza Pro';margin:0.0px;text-align:right;" dir="rtl"><span style="font-size:18px;"><span style="font:13.0px 'Helvetica Neue';"><strong>-</strong></span><strong>اعادة</strong><span style="font:13.0px 'Helvetica Neue';"><strong> </strong></span><strong>كتابة</strong><span style="font:13.0px 'Helvetica Neue';"><strong> </strong></span><strong>صفحة</strong><span style="font:13.0px 'Helvetica Neue';"><strong> </strong></span><strong>الاعدادات</strong><span style="font:13.0px 'Helvetica Neue';"><strong> </strong></span><strong>والاستغناء</strong><span style="font:13.0px 'Helvetica Neue';"><strong> </strong></span><strong>عن</strong><span style="font:13.0px 'Helvetica Neue';"><strong> Cephei</strong></span><span class="Apple-converted-space" style="font:13.0px 'Helvetica Neue';"><strong>&nbsp;</strong></span></span></p>
 <p>&nbsp;</p>
-<p><strong>-اعادة كتابة اكواد التحميل للتنزيل بجودة فل HD حقيقية!</strong></p>
-<p><br><strong>-اصلاح تنزيل الفيديوهات/الصور من الصفحة الرئيسية</strong></p>
-<p><br><strong>-اصلاح تنزيل الفيديوهات/الصور من القصص</strong></p>
-<p><br><strong>-اصلاح حفظ صورة الملف الشخصي</strong></p>
-<p><br><strong>-اصلاح تنزيل مقاطع الريلز، مع اضافة حفظ صور الريلز</strong></p>
-<p><br><strong>-اصلاح تنزيل الفيديوهات/الصور من الخاص</strong></p>
+<p><br><span style="font-size:18px;"><strong>Changelog V1.0</strong></span></p>
 <p>&nbsp;</p>
-<p><strong>-اضافة تنزيل الفيديوهات/الصور بالخاص (ذات العرض لمرة واحدة فقط)</strong></p>
-<p><br><strong>-جميع الفيديوهات والصور يتم تنزيلها بأعلى جودة ممكنة</strong></p>
-<p><br><strong>-اضافة خيار حفظ الصور والفيديو مباشرة الى البوم الصور، او اظهار شريط المشاركة</strong></p>
-<p><br><strong>-تحسين ميزة (وضع اشارة مشاهدة) بالخاص للدردشات والصور والفيديو</strong></p>
-<p><br><strong>-اصلاح ميزة (وضع اشارة مشاهدة) للقصص</strong></p>
-<p><br><strong>-اصلاح ميزة ابقاء الدردشات المحذوفة مع اضافة اشارة للرسائل المحذوفة لتمييزها</strong></p>
-<p><br><strong>-اصلاح نسخ النبذة التعريفية bio</strong></p>
-<p><br><strong>-تحسين ميزة نسخ الوصف</strong></p>
-<p><br><strong>-اصلاح اعادة مشاهدة القصص بالعام والخاص بشكل لامحدود (كانت للصور فقط والآن للصور والفيديو)</strong></p>
-<p>&nbsp;</p>
-<p><strong>-اضافة تأكيد عند الاتصال (صوت او فيديو)</strong></p>
-<p><br><strong>-اضافة تمكين اختيار فيديو في ملصقات القصص</strong></p>
-<p><br><strong>-اضافة ميزة تعطيل اشعار (جار الكتابة…)&nbsp;</strong></p>
-<p><br><strong>-اضافة امكانية تغيير لغة اعدادات الأداة بين العربية والانجليزية (من داخل اعدادات الأداة)</strong></p>
-<p><br><strong>-اضافة زر اعدادات الاداة اعلى الصفحة الرئيسية</strong></p>
-<p><br><strong>-اعادة كتابة صفحة الاعدادات والاستغناء عن Cephei&nbsp;</strong></p>
-<p>&nbsp;</p>
-<p><br><strong>Changelog V1.0</strong></p>
-<p>&nbsp;</p>
-<p><strong>Added compatibility to Instagram V336.1.0</strong></p>
-<p><strong>-Fixed feed video downloading - true FHD</strong><br><strong>-Fixed image downloading - true FHD</strong><br><strong>-Fixed downloading stories</strong><br><strong>-Fixed downloading profile pictures</strong><br><strong>-Fixed downloading reels, added downloading pics in reels</strong><br><strong>-Fixed downloading in DM</strong><br><strong>-Added downloading private, one time media in DM</strong><br><strong>-All media always downloads in best available quality</strong><br><strong>-Added ability to save downloaded item directly to the photos app or show share sheet</strong><br><strong>-Improved mark as seen option for DM in public and private mode</strong><br><strong>-Fixed mark as seen option for stories</strong><br><strong>-Fixed keeping deleted messages, added indicator that shows deleted message</strong><br><strong>-Fixed copy bio option</strong><br><strong>-Improved copy description option</strong><br><strong>-Fixed unlimited replay for story and DM media. (both was image only)&nbsp;</strong><br><strong>- added feature to loop story videos</strong><br><strong>-Fixed saving profile picture</strong><br><strong>-Added call confirmation option for audio and video calls</strong><br><strong>-Added option to select videos from the sticker gallery.</strong><br><strong>-Added option to disable “Typing…” indicator</strong><br><strong>-Added ability to change tweak localization between En/Ar in tweak settings</strong><br><strong>-Added settings button to the Home tabs navigation bar</strong><br><strong>-Re-wrote settings, removed Cephei dependency</strong><br>&nbsp;</p>
+<p><span style="font-size:18px;"><strong>Added compatibility to Instagram V336.1.0</strong></span></p>
+<p><span style="font-size:18px;"><strong>-Fixed feed video downloading - true FHD</strong></span><br><span style="font-size:18px;"><strong>-Fixed image downloading - true FHD</strong></span><br><span style="font-size:18px;"><strong>-Fixed downloading stories</strong></span><br><span style="font-size:18px;"><strong>-Fixed downloading profile pictures</strong></span><br><span style="font-size:18px;"><strong>-Fixed downloading reels, added downloading pics in reels</strong></span><br><span style="font-size:18px;"><strong>-Fixed downloading in DM</strong></span><br><span style="font-size:18px;"><strong>-Added downloading private, one time media in DM</strong></span><br><span style="font-size:18px;"><strong>-All media always downloads in best available quality</strong></span><br><span style="font-size:18px;"><strong>-Added ability to save downloaded item directly to the photos app or show share sheet</strong></span><br><span style="font-size:18px;"><strong>-Improved mark as seen option for DM in public and private mode</strong></span><br><span style="font-size:18px;"><strong>-Fixed mark as seen option for stories</strong></span><br><span style="font-size:18px;"><strong>-Fixed keeping deleted messages, added indicator that shows deleted message</strong></span><br><span style="font-size:18px;"><strong>-Fixed copy bio option</strong></span><br><span style="font-size:18px;"><strong>-Improved copy description option</strong></span><br><span style="font-size:18px;"><strong>-Fixed unlimited replay for story and DM media. (both was image only)&nbsp;</strong></span><br><span style="font-size:18px;"><strong>- added feature to loop story videos</strong></span><br><span style="font-size:18px;"><strong>-Fixed saving profile picture</strong></span><br><span style="font-size:18px;"><strong>-Added call confirmation option for audio and video calls</strong></span><br><span style="font-size:18px;"><strong>-Added option to select videos from the sticker gallery.</strong></span><br><span style="font-size:18px;"><strong>-Added option to disable “Typing…” indicator</strong></span><br><span style="font-size:18px;"><strong>-Added ability to change tweak localization between En/Ar in tweak settings</strong></span><br><span style="font-size:18px;"><strong>-Added settings button to the Home tabs navigation bar</strong></span><br><span style="font-size:18px;"><strong>-Re-wrote settings, removed Cephei dependency</strong></span><br><span style="font-size:18px;">&nbsp;</span></p>
