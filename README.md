@@ -1,3 +1,14 @@
+<p style="text-align:right;"><span style="font-size:18px;"><strong>اصدار V1.0.2</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- اصلاح ميزة مشاهدة الوسائط بالخاص بشكل مخفي</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- اضافة أظهار حالة المتابعة</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- اضافة نسخ الوصف في الريلز</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- توافق مع احدث اصدار للتطبيق V338.1.0</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>V1.0.2</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- Fixed Keep DM media unseen</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- Added “Following Status”</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- Added copy description in Reels</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- Added compatibility for latest app version V338.1.0</strong></span></p>
+
 <p style="text-align:right;"><strong># BHInstagram</strong><br><strong>An awesome tweak for Instagram!</strong><br><strong>التغييرات :</strong></p>
 <p style="text-align:right;"><br><strong>اصدار V1.0</strong></p>
 <p style="font:20.0px 'Helvetica Neue';margin:0.0px;min-height:25.0px;"><br>&nbsp;</p>
