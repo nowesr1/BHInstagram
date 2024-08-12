@@ -1,3 +1,7 @@
+<p style="text-align:right;"><span style="font-size:18px;"><strong>اصدار V1.0.3</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- امكانية تغيير مكان اعدادات الأداة الى داخل اعدادات التطبيق</strong></span></p>
+<p style="text-align:right;"><span style="font-size:18px;"><strong>- added option to move BHInstagram's Settings into app's Settings</strong></span></p>
+
 <p style="text-align:right;"><span style="font-size:18px;"><strong>اصدار V1.0.2</strong></span></p>
 <p style="text-align:right;"><span style="font-size:18px;"><strong>- اصلاح ميزة مشاهدة الوسائط بالخاص بشكل مخفي</strong></span></p>
 <p style="text-align:right;"><span style="font-size:18px;"><strong>- اضافة أظهار حالة المتابعة</strong></span></p>
